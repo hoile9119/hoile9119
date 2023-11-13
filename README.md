@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoile9119
-- 👀 I’m interested in Python Programing
-- 🌱 I’m currently learning to work as an Data/AI Engineer
+- 👀 I’m interested in working with Big Data tech stack
+- 🌱 I’m currently working as an Data and Feature Engineer
 - 💞️ I’m looking to collaborate on anything relevant to my career
 - 📫 How to reach me: My linkedin profile: https://www.linkedin.com/in/hoi-le-at-91991b18b/
 
